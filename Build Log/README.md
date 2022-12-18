@@ -19,7 +19,7 @@ Mostly because I still wanted to use standard modifier keycaps that come with mo
 Eventually I settled on this layout:  
 ![Mimas layout](https://i.imgur.com/nPdLpGJ.png)  
 Added a thumb cluster for Ctrl, Alt, Win, Layers and repositioned the columns to better match my fingers
-
+<br>
 Comparrison to my first split keyboard  
 ![alt text](https://i.imgur.com/2w5sge4.jpg)  
 
