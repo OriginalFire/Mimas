@@ -12,9 +12,8 @@ Thus I decided to build another split keyboard 8 months later.
 
 ## Layout
 
-My first split had a layout similar to the the Fold by Keebio
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-![aros](https://imgur.com/3FrAWM0)
+My first split had a layout similar to the the Fold by Keebio  
+![aros](https://i.imgur.com/3FrAWM0.jpg)  
 Mostly because I still wanted to use standard modifier keycaps that come with most keycap kits.
 
 Eventually I settled on this layout:
