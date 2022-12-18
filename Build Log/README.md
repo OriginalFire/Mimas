@@ -17,6 +17,7 @@ My first split had a layout similar to the the Fold by Keebio
 Mostly because I still wanted to use standard modifier keycaps that come with most keycap kits.
 
 
+
 Eventually I settled on this layout:  
 ![Mimas layout](https://i.imgur.com/nPdLpGJ.png)  
 Added a thumb cluster for Ctrl, Alt, Win, Layers and repositioned the columns to better match my fingers  
