@@ -13,7 +13,7 @@ Thus I decided to build another split keyboard 8 months later.
 ## Layout
 
 My first split had a layout similar to the the Fold by Keebio
-![alt text](https://imgur.com/a/Whrcv6O)
+![alt text](https://imgur.com/3FrAWM0)
 Mostly because I still wanted to use standard modifier keycaps that come with most keycap kits.
 
 Eventually I settled on this layout:
