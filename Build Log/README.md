@@ -14,8 +14,9 @@ Thus I decided to build another split keyboard 8 months later.
 
 My first split had a layout similar to the the Fold by Keebio  
 ![aros](https://i.imgur.com/3FrAWM0.jpg)  
-Mostly because I still wanted to use standard modifier keycaps that come with most keycap kits.  
-
+Mostly because I still wanted to use standard modifier keycaps that come with most keycap kits.
+<br>
+<br>
 Eventually I settled on this layout:  
 ![Mimas layout](https://i.imgur.com/nPdLpGJ.png)  
 Added a thumb cluster for Ctrl, Alt, Win, Layers and repositioned the columns to better match my fingers  
