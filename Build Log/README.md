@@ -21,12 +21,33 @@ Mostly because I still wanted to use standard modifier keycaps that come with mo
 Eventually I settled on this layout:  
 ![Mimas layout](https://i.imgur.com/nPdLpGJ.png)  
 Added a thumb cluster for Ctrl, Alt, Win, Layers and repositioned the columns to better match my fingers  
-
+<br>
+<br>
+<br>
 Comparrison to my first split keyboard  
 ![alt text](https://i.imgur.com/2w5sge4.jpg)  
 
-Luckly I can still put GMK (or similar keycap sets) keycaps with this layout as long as there is a 40s kit available
+I made sure the modifiers were somewhat common sizes so that I can still put GMK (or similar keycap sets) keycaps with this layout as long as there is a 40s kit available
 
-## Plate
+## Design
+
+Initially I was going to simply just make a quick pcb and slap together a case for this project, but then I thought, "well I'm more or less making the same keyboard...". So I decided to go to the Dactyl route.
+
+I tried various angles for each rows from 5 degrees to 20
+![alt text](https://i.imgur.com/Mn16cWe.jpg)  
+![alt text](https://i.imgur.com/8673vPo.jpg)  
+I eventually settled on 20 degrees
+<br>
+<br>
+<br>
+Testing keycap spacing between rows
+![alt text](https://i.imgur.com/tWcU06y.jpg)  
+![alt text](https://i.imgur.com/8E3Hp7f.jpg)  
+![alt text](https://i.imgur.com/2RaJnmT.jpg)  
+<br>
+<br>
+<br>
+Checking reach 
+
 
 
